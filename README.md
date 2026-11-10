@@ -15,18 +15,11 @@ Computer Engineering and Computational Mathematics student at **Universitat Jaum
 - **Development:** `Git` · `Docker Compose` · JetBrains IDEs · VS Code
 - **Environment:** EndeavourOS · Hyprland · Kitty · Neovim (LazyVim)
 
-## GitHub
+## GitHub Activity
 
-```mermaid
-flowchart LR
-    A[Embedded systems] --- B[Low-level software]
-    A --- C[Hardware prototyping]
-    A --- D[Communication protocols]
-    B --- E[Computational mathematics]
+![GitHub contribution activity by day](https://ghchart.rshah.org/JoanBes)
 
-    classDef focus fill:#1f2335,stroke:#7aa2f7,color:#c0caf5
-    class A,B,C,D,E focus
-```
+![GitHub profile summary, including contributions and public repositories](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoanBes&theme=tokyonight)
 
 ## Contact
 
