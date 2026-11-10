@@ -7,7 +7,6 @@ I’m a student at **Universitat Jaume I** in Castellón, Spain. My studies comb
 ## What I’m into
 
 - **Close to the hardware** — low-level programming, embedded systems, and prototyping.
-- **Systems that communicate** — CAN bus, SENT, and MQTT.
 - **The math behind the code** — computational mathematics and problem solving.
 
 ## Tools I use
@@ -26,7 +25,7 @@ I’m a student at **Universitat Jaume I** in Castellón, Spain. My studies comb
 
 **Daily setup**
 
-EndeavourOS · Hyprland · Kitty · Neovim with LazyVim
+EndeavourOS · Hyprland · Kitty
 
 ## Contact
 
