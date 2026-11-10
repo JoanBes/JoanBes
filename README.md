@@ -17,11 +17,16 @@ Computer Engineering and Computational Mathematics student at **Universitat Jaum
 
 ## GitHub
 
-![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=JoanBes&theme=tokyo-night&hide_border=true)
+```mermaid
+flowchart LR
+    A[Embedded systems] --- B[Low-level software]
+    A --- C[Hardware prototyping]
+    A --- D[Communication protocols]
+    B --- E[Computational mathematics]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanBes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanBes&layout=compact&theme=tokyonight&hide_border=true)
+    classDef focus fill:#1f2335,stroke:#7aa2f7,color:#c0caf5
+    class A,B,C,D,E focus
+```
 
 ## Contact
 
