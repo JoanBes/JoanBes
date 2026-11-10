@@ -1,27 +1,33 @@
 # Joan Besalduch Lores
 
-Computer Engineering and Computational Mathematics student at **Universitat Jaume I** in Castellón, Spain. I also completed exchange coursework at **Sejong University** in Seoul, South Korea.
+> Computer Engineering × Computational Mathematics
 
-## Focus
+I’m a student at **Universitat Jaume I** in Castellón, Spain. My studies combine software and mathematical approaches to engineering. I’ve also completed exchange coursework at **Sejong University** in Seoul, South Korea.
 
-- Low-level programming and embedded systems
-- Hardware prototyping and communication protocols
-- Computational mathematics
+## What I’m into
 
-## Technologies
+- **Close to the hardware** — low-level programming, embedded systems, and prototyping.
+- **Systems that communicate** — CAN bus, SENT, and MQTT.
+- **The math behind the code** — computational mathematics and problem solving.
 
-- **Embedded & hardware:** `ESP32` · `Teensy 4.1` · `PlatformIO` · `CAN bus` · `SENT` · `MQTT`
-- **Languages:** `C` · `C++` · `Java` · `Python` · `SQL` · `Bash` · `Zsh`
-- **Development:** `Git` · `Docker Compose` · JetBrains IDEs · VS Code
-- **Environment:** EndeavourOS · Hyprland · Kitty · Neovim (LazyVim)
+## Tools I use
 
-## GitHub Activity
+**Embedded**
 
-![GitHub contribution activity by day](https://ghchart.rshah.org/JoanBes)
+`ESP32` · `Teensy 4.1` · `PlatformIO`
 
-![GitHub profile summary, including contributions and public repositories](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoanBes&theme=tokyonight)
+**Languages**
+
+`C` · `C++` · `Java` · `Python` · `SQL` · `Bash` · `Zsh`
+
+**Development**
+
+`Git` · `Docker Compose` · JetBrains IDEs · VS Code
+
+**Daily setup**
+
+EndeavourOS · Hyprland · Kitty · Neovim with LazyVim
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/joan-besalduch-lores-4b5523435/)
-- [Email](mailto:joan.besalduchlores@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/joan-besalduch-lores-4b5523435/) · [Email](mailto:joan.besalduchlores@gmail.com)
